@@ -1,0 +1,3 @@
+<h1>{{SITE_TITLE}}</h1>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim modi quae, pariatur soluta nesciunt at assumenda nobis eaque reprehenderit eligendi ex est, dolor, natus nihil ad hic debitis adipisci reiciendis.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe magni impedit pariatur voluptatum exercitationem beatae alias ducimus! Excepturi magnam quas consequuntur, veniam labore tenetur distinctio explicabo est beatae, fugit libero?</p>
